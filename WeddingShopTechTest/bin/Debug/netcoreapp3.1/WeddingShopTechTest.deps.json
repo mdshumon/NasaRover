@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeddingShopTechTest/1.0.0": {
+        "dependencies": {
+          "Workflow.AI": "1.0.0"
+        },
+        "runtime": {
+          "WeddingShopTechTest.dll": {}
+        }
+      },
+      "Workflow.AI/1.0.0": {
+        "dependencies": {
+          "Workflow.Models": "1.0.0"
+        },
+        "runtime": {
+          "Workflow.AI.dll": {}
+        }
+      },
+      "Workflow.Models/1.0.0": {
+        "runtime": {
+          "Workflow.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeddingShopTechTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workflow.AI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workflow.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

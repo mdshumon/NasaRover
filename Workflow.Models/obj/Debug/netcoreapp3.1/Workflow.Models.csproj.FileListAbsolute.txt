@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.Models\bin\Debug\netcoreapp3.1\Workflow.Models.deps.json
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.Models\bin\Debug\netcoreapp3.1\Workflow.Models.dll
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.Models\bin\Debug\netcoreapp3.1\Workflow.Models.pdb
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.Models\obj\Debug\netcoreapp3.1\Workflow.Models.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.Models\obj\Debug\netcoreapp3.1\Workflow.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.Models\obj\Debug\netcoreapp3.1\Workflow.Models.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.Models\obj\Debug\netcoreapp3.1\Workflow.Models.dll
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.Models\obj\Debug\netcoreapp3.1\Workflow.Models.pdb

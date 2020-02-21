@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\bin\Debug\netcoreapp3.1\Workflow.AI.deps.json
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\bin\Debug\netcoreapp3.1\Workflow.AI.dll
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\bin\Debug\netcoreapp3.1\Workflow.AI.pdb
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\bin\Debug\netcoreapp3.1\Workflow.Models.dll
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\bin\Debug\netcoreapp3.1\Workflow.Models.pdb
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\obj\Debug\netcoreapp3.1\Workflow.AI.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\obj\Debug\netcoreapp3.1\Workflow.AI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\obj\Debug\netcoreapp3.1\Workflow.AI.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\obj\Debug\netcoreapp3.1\Workflow.AI.csproj.CopyComplete
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\obj\Debug\netcoreapp3.1\Workflow.AI.dll
+C:\Users\Administrator\source\repos\WeddingShopTechTest\Workflow.AI\obj\Debug\netcoreapp3.1\Workflow.AI.pdb
